@@ -28,3 +28,7 @@ packages/
 # Dotnet tools & cache
 .dotnet/
 .dotnet-tools/
+
+# Ignore build output folders and files
+helloWorld/obj/
+helloWorld/bin/

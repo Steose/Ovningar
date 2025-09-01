@@ -1,34 +1,42 @@
-# Build results
-/bin/
-/obj/
-out/
+# Ignore build output folders
+bin/
+obj/
 
-# VS Code
-.vscode/
-
-# macOS system files
-.DS_Store
-
-# User-specific files
+# Ignore user-specific files
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
 
-# Logs & temp
-*.log
-*.tmp
-*.pid
+# Ignore Visual Studio Code settings
+.vscode/
 
-# NuGet packages
+# Ignore Mac system files
+.DS_Store
+
+# Ignore NuGet packages
 *.nupkg
-*.snupkg
 packages/
-.nuget/
-~/.nuget/
+*.snupkg
 
-# Dotnet tools & cache
-.dotnet/
-.dotnet-tools/
+# Ignore build logs
+*.log
 
-# Ignore build output folders and files
-helloWorld/obj/
-helloWorld/bin/
+# Ignore compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Ignore test results
+TestResults/
+*.trx
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore generated files
+*.AssemblyInfo.cs
+
+# Ignore any other files/folders you want
+# !README.md   # Uncomment to NOT ignore

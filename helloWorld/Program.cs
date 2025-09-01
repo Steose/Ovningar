@@ -94,7 +94,7 @@ if (int.TryParse(arg, out age))
  */
 
 
-int age;
+/* int age;
 while (true)
 {
     Console.Write("Type your age(Must be Number) and press Enter: ");
@@ -119,3 +119,16 @@ else
 {
     Console.WriteLine("Du är tyvärr för ung!");
 }
+ */
+
+
+//DoWhile_Live_Lesson
+int i = 0;
+do
+{
+    Console.WriteLine(i);
+    i++;
+} while (i < 10);
+
+Console.WriteLine();
+Console.WriteLine("Andra loopen");

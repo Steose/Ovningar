@@ -6,8 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  <ItemGroup>
-    <Compile Remove="obj\Debug\net9.0\helloWorld.AssemblyInfo.cs" />
-  </ItemGroup>
-
 </Project>

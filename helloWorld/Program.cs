@@ -121,7 +121,9 @@ else
 }
  */
 
-// For loop
+
+
+/* // For loop
 // for (deklarera/använd variabel ; villkor ; steg )
 for (int counter = 1; counter < 10; counter++)
 {
@@ -135,26 +137,48 @@ while (counter2 < 10)
     counter2++;
 }
 
+ */
+
+/* Console.WriteLine("Hello, Loop controls!");
+
+for (int i = 0; i < 100; i++)
+{
+
+    if (i == 4)
+    {
+        Console.WriteLine("Jag gillar inte fyror");
+        continue;
+    }
+
+    Console.WriteLine(i);
+
+    if (i == 8)
+    {
+        Console.WriteLine("Nu får det vara nog");
+        break;
+    }
+
+} */
 
 
-Console.WriteLine("Hello, Loop controls!");
+Console.WriteLine("Hello, Modulus!");
 
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 10; i++)
             {
+                if (i % 3 == 0)
+                    Console.WriteLine($"Nummer: {i}%3 = {i % 3}");
+            }
 
-                if (i==4)
+            Console.WriteLine();
+            Console.WriteLine("Skippa modulus 3");
+
+            int mod = 3;
+            for (int i = 0; i < 10; i++)
+            {
+                if (i % mod == 0)
                 {
-                    Console.WriteLine("Jag gillar inte fyror");
                     continue;
                 }
-                
                 Console.WriteLine(i);
-
-                if (i == 8)
-                {
-                    Console.WriteLine("Nu får det vara nog");
-                    break;
-                }
-
             }
 

@@ -162,7 +162,7 @@ for (int i = 0; i < 100; i++)
 } */
 
 
-Console.WriteLine("Hello, Modulus!");
+/* Console.WriteLine("Hello, Modulus!");
 
 for (int i = 0; i < 10; i++)
 {
@@ -172,7 +172,7 @@ for (int i = 0; i < 10; i++)
 
 Console.WriteLine();
 Console.WriteLine("Skippa modulus 3");
-
+ 
 int mod = 3;
 for (int i = 0; i < 10; i++)
 {
@@ -181,7 +181,7 @@ for (int i = 0; i < 10; i++)
         continue;
     }
     Console.WriteLine(i);
-}
+}*/
 
 
 //DoWhile_Live_Lesson

@@ -135,3 +135,26 @@ while (counter2 < 10)
     counter2++;
 }
 
+
+
+Console.WriteLine("Hello, Loop controls!");
+
+            for (int i = 0; i < 100; i++)
+            {
+
+                if (i==4)
+                {
+                    Console.WriteLine("Jag gillar inte fyror");
+                    continue;
+                }
+                
+                Console.WriteLine(i);
+
+                if (i == 8)
+                {
+                    Console.WriteLine("Nu får det vara nog");
+                    break;
+                }
+
+            }
+

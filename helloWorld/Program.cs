@@ -123,6 +123,7 @@ else
 
 
 
+
 /* // For loop
 // for (deklarera/använd variabel ; villkor ; steg )
 for (int counter = 1; counter < 10; counter++)
@@ -163,22 +164,34 @@ for (int i = 0; i < 100; i++)
 
 Console.WriteLine("Hello, Modulus!");
 
-            for (int i = 0; i < 10; i++)
-            {
-                if (i % 3 == 0)
-                    Console.WriteLine($"Nummer: {i}%3 = {i % 3}");
-            }
+for (int i = 0; i < 10; i++)
+{
+    if (i % 3 == 0)
+        Console.WriteLine($"Nummer: {i}%3 = {i % 3}");
+}
 
-            Console.WriteLine();
-            Console.WriteLine("Skippa modulus 3");
+Console.WriteLine();
+Console.WriteLine("Skippa modulus 3");
 
-            int mod = 3;
-            for (int i = 0; i < 10; i++)
-            {
-                if (i % mod == 0)
-                {
-                    continue;
-                }
-                Console.WriteLine(i);
-            }
+int mod = 3;
+for (int i = 0; i < 10; i++)
+{
+    if (i % mod == 0)
+    {
+        continue;
+    }
+    Console.WriteLine(i);
+}
+
+
+//DoWhile_Live_Lesson
+int i = 0;
+do
+{
+    Console.WriteLine(i);
+    i++;
+} while (i < 10);
+
+Console.WriteLine();
+Console.WriteLine("Andra loopen");
 

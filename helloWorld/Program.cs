@@ -94,7 +94,7 @@ if (int.TryParse(arg, out age))
  */
 
 
-int age;
+/* int age;
 while (true)
 {
     Console.Write("Type your age(Must be Number) and press Enter: ");
@@ -119,3 +119,19 @@ else
 {
     Console.WriteLine("Du är tyvärr för ung!");
 }
+ */
+
+// For loop
+// for (deklarera/använd variabel ; villkor ; steg )
+for (int counter = 1; counter < 10; counter++)
+{
+    Console.WriteLine(counter);
+}
+
+int counter2 = 0;
+while (counter2 < 10)
+{
+    Console.WriteLine(counter2);
+    counter2++;
+}
+

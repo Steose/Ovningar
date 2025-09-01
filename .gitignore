@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+out/
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
+
+# Logs & temp
+*.log
+*.tmp
+*.pid
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+~/.nuget/
+
+# Dotnet tools & cache
+.dotnet/
+.dotnet-tools/

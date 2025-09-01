@@ -6,5 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+  <Compile Remove="obj\Debug\net9.0\helloWorld.AssemblyInfo.cs" />
+</ItemGroup>
+  <ItemGroup>
+    <None Update="obj\Debug\net9.0\helloWorld.AssemblyInfo.cs">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
 
 </Project>

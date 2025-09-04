@@ -184,7 +184,7 @@ for (int i = 0; i < 10; i++)
 }*/
 
 
-//DoWhile_Live_Lesson
+/* //DoWhile_Live_Lesson
 int i = 0;
 do
 {
@@ -193,5 +193,67 @@ do
 } while (i < 10);
 
 Console.WriteLine();
-Console.WriteLine("Andra loopen");
+Console.WriteLine("Andra loopen med Do While");
+ */
+
+
+
+
+/* // loop övningar
+Console.WriteLine("Skriv ut multiplikationstabellen för 7");
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"7 x {i} = {7 * i}");
+}
+
+Console.ReadKey();
+for (int row = 1; row <= 10; row++)
+{
+    for (int col = 1; col <= 10; col++)
+    {
+        Console.WriteLine($"{row} * {col} = {row * col}");
+    }
+
+}
+
+// MVP - Most viable product
+Console.WriteLine();
+Console.WriteLine("Skriv ut alla jämna tal mellan 1 och 20");
+
+for (int even = 2; even <= 20; even += 2)
+{
+    Console.WriteLine(even);
+}
+// teknisk lösning
+Console.WriteLine();
+Console.WriteLine("Skriv ut alla jämna tal mellan 1 och 20 - alternativ metod");
+
+for (int i = 1; i <= 20; i++)
+{
+    if (i % 2 == 0) // kollar om talet är jämnt
+    {
+        Console.WriteLine(i);
+    }
+}
+*/
+
+Console.WriteLine();
+Console.WriteLine("Skriv ut en triangel med * med 5 rader");
+int n = 5;
+for (int i = 1; i <= n; i++)
+{
+    for (int j = 0; j < i; j++)
+    {
+        Console.Write("*");
+    }
+    Console.WriteLine();
+}
+
+Console.WriteLine();
+Console.WriteLine("Skriv ut en triangel med * med 5 rader - alternativ metod");
+for (int row = 1; row <= n; row++)
+{
+    string stars = new string('*', row);
+    Console.WriteLine(stars);
+}
 

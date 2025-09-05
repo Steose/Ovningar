@@ -1,0 +1,14 @@
+/Users/stephenucheosedumme/CLO25/ovning1/bin/Debug/net9.0/ovning1
+/Users/stephenucheosedumme/CLO25/ovning1/bin/Debug/net9.0/ovning1.deps.json
+/Users/stephenucheosedumme/CLO25/ovning1/bin/Debug/net9.0/ovning1.runtimeconfig.json
+/Users/stephenucheosedumme/CLO25/ovning1/bin/Debug/net9.0/ovning1.dll
+/Users/stephenucheosedumme/CLO25/ovning1/bin/Debug/net9.0/ovning1.pdb
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.AssemblyInfoInputs.cache
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.AssemblyInfo.cs
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.csproj.CoreCompileInputs.cache
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.dll
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/refint/ovning1.dll
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.pdb
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ovning1.genruntimeconfig.cache
+/Users/stephenucheosedumme/CLO25/ovning1/obj/Debug/net9.0/ref/ovning1.dll

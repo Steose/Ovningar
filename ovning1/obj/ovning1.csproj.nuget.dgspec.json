@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stephenucheosedumme/CLO25/ovning1/ovning1.csproj": {}
+    "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj": {}
   },
   "projects": {
-    "/Users/stephenucheosedumme/CLO25/ovning1/ovning1.csproj": {
+    "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stephenucheosedumme/CLO25/ovning1/ovning1.csproj",
+        "projectUniqueName": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj",
         "projectName": "ovning1",
-        "projectPath": "/Users/stephenucheosedumme/CLO25/ovning1/ovning1.csproj",
+        "projectPath": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj",
         "packagesPath": "/Users/stephenucheosedumme/.nuget/packages/",
-        "outputPath": "/Users/stephenucheosedumme/CLO25/ovning1/obj/",
+        "outputPath": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stephenucheosedumme/.nuget/NuGet/NuGet.Config"

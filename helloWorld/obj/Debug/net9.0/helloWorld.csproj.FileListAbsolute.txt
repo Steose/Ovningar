@@ -41,6 +41,7 @@
 /Users/stephenucheosedumme/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.pdb
 /Users/stephenucheosedumme/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.genruntimeconfig.cache
 /Users/stephenucheosedumme/Ovningar/helloWorld/obj/Debug/net9.0/ref/helloWorld.dll
+<<<<<<< HEAD
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.deps.json
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.runtimeconfig.json
@@ -56,3 +57,20 @@
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.pdb
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.genruntimeconfig.cache
 /Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/obj/Debug/net9.0/ref/helloWorld.dll
+=======
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.deps.json
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.runtimeconfig.json
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.dll
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/bin/Debug/net9.0/helloWorld.pdb
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfoInputs.cache
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfo.cs
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.sourcelink.json
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.dll
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/refint/helloWorld.dll
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.pdb
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/helloWorld.genruntimeconfig.cache
+/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/Debug/net9.0/ref/helloWorld.dll
+>>>>>>> bceec2d90c1a9863d873f2172014c488e03e1f2e

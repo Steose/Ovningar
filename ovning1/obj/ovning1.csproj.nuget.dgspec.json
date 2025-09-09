@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj": {}
+    "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj": {}
   },
   "projects": {
-    "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj": {
+    "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj",
+        "projectName": "ovning1",
+        "projectPath": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/ovning1.csproj",
         "packagesPath": "/Users/stephenucheosedumme/.nuget/packages/",
-        "outputPath": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/obj/",
-=======
-    "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/helloWorld.csproj": {}
-  },
-  "projects": {
-    "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/helloWorld.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/helloWorld.csproj",
-        "packagesPath": "/Users/stephenucheosedumme/.nuget/packages/",
-        "outputPath": "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/obj/",
->>>>>>> bceec2d90c1a9863d873f2172014c488e03e1f2e
+        "outputPath": "/Users/stephenucheosedumme/cloud25/Ovningar/ovning1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stephenucheosedumme/.nuget/NuGet/NuGet.Config"

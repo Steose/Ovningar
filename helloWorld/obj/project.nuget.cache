@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pCs+TsIIUmc=",
   "success": true,
   "projectFilePath": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj",
+=======
+  "dgSpecHash": "6xNlNz26+Ok=",
+  "success": true,
+  "projectFilePath": "/Users/stephenucheosedumme/cloud25/Ovningar/helloWorld/helloWorld.csproj",
+>>>>>>> bceec2d90c1a9863d873f2172014c488e03e1f2e
   "expectedPackageFiles": [],
   "logs": []
 }

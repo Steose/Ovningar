@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stephenucheosedumme/Ovningar/helloWorld/helloWorld.csproj",
+      "projectUniqueName": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj",
       "projectName": "helloWorld",
-      "projectPath": "/Users/stephenucheosedumme/Ovningar/helloWorld/helloWorld.csproj",
+      "projectPath": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/helloWorld.csproj",
       "packagesPath": "/Users/stephenucheosedumme/.nuget/packages/",
-      "outputPath": "/Users/stephenucheosedumme/Ovningar/helloWorld/obj/",
+      "outputPath": "/Users/stephenucheosedumme/CLO25/Ovningar/helloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stephenucheosedumme/.nuget/NuGet/NuGet.Config"

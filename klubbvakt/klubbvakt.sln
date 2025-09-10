@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klubbvakt", "klubbvakt.csproj", "{55C3922A-5E15-B1F7-8E35-097A783DBBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C3922A-5E15-B1F7-8E35-097A783DBBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C3922A-5E15-B1F7-8E35-097A783DBBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C3922A-5E15-B1F7-8E35-097A783DBBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C3922A-5E15-B1F7-8E35-097A783DBBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718EAF09-1422-48B0-9C57-824CC4D0C8B1}
+	EndGlobalSection
+EndGlobal

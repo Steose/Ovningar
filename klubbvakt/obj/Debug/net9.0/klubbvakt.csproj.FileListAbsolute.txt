@@ -1,0 +1,14 @@
+/Users/stephenucheosedumme/CLO25/klubbvakt/bin/Debug/net9.0/klubbvakt
+/Users/stephenucheosedumme/CLO25/klubbvakt/bin/Debug/net9.0/klubbvakt.deps.json
+/Users/stephenucheosedumme/CLO25/klubbvakt/bin/Debug/net9.0/klubbvakt.runtimeconfig.json
+/Users/stephenucheosedumme/CLO25/klubbvakt/bin/Debug/net9.0/klubbvakt.dll
+/Users/stephenucheosedumme/CLO25/klubbvakt/bin/Debug/net9.0/klubbvakt.pdb
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.AssemblyInfoInputs.cache
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.AssemblyInfo.cs
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.csproj.CoreCompileInputs.cache
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.dll
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/refint/klubbvakt.dll
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.pdb
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/klubbvakt.genruntimeconfig.cache
+/Users/stephenucheosedumme/CLO25/klubbvakt/obj/Debug/net9.0/ref/klubbvakt.dll

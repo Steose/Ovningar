@@ -1,0 +1,14 @@
+/Users/stephenucheosedumme/CLO25/DiceGame/bin/Debug/net9.0/DiceGame
+/Users/stephenucheosedumme/CLO25/DiceGame/bin/Debug/net9.0/DiceGame.deps.json
+/Users/stephenucheosedumme/CLO25/DiceGame/bin/Debug/net9.0/DiceGame.runtimeconfig.json
+/Users/stephenucheosedumme/CLO25/DiceGame/bin/Debug/net9.0/DiceGame.dll
+/Users/stephenucheosedumme/CLO25/DiceGame/bin/Debug/net9.0/DiceGame.pdb
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.AssemblyInfoInputs.cache
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.AssemblyInfo.cs
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.dll
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/refint/DiceGame.dll
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.pdb
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/DiceGame.genruntimeconfig.cache
+/Users/stephenucheosedumme/CLO25/DiceGame/obj/Debug/net9.0/ref/DiceGame.dll
